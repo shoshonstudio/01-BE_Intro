@@ -1,5 +1,11 @@
 # 01-Intro
 FrontEnd powtórzenie | Tools | BackEnd Intro
+
+# INFO
+VSCode: https://youtu.be/om4HQYXgZog |
+Emmet: https://docs.emmet.io/abbreviations/syntax/ |
+Git: https://youtu.be/bdtaspSmFCk |
+
 #--------Program:
 
 01-BE_intro (27.01.2020) https://drive.google.com/open?id=1lYg7b-ADUrONDRE8FYuKk0dvax98WopD
